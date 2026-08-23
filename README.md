@@ -1,2 +1,2 @@
 # my-first-project
-This is my forst project!
+This is my fsrst project!
